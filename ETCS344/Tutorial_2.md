@@ -41,12 +41,16 @@ Object diagrams represent an instance of a class diagram. The basic concepts are
 Object diagrams are used to render a set of objects and their relationships as an instance. 
 
 ### Purpose of Object Diagrams
-The purpose of a diagram should be understood clearly to implement it practically. The purposes of object diagrams are similar to class diagrams.The difference is that a class diagram represents an abstract model consisting of classes and their relationships. However, an object diagram represents an instance at a particular moment, which is concrete in nature.
-It means the object diagram is closer to the actual system behavior. The purpose is to capture the static view of a system at a particular moment.
+The purpose of a diagram should be understood clearly to implement it practically. The purposes of object diagrams are similar to class diagrams.The difference is that a class diagram represents an abstract model consisting of classes and their relationships. However, an object diagram represents an instance at a particular moment, which is concrete in nature.It means the object diagram is closer to the actual system behavior. The purpose is to capture the static view of a system at a particular moment.
+
 The purpose of the object diagram can be summarized as −
+  
   1.Forward and reverse engineering.
+  
   2.Object relationships of a system
+  
   3.Static view of an interaction.
+  
   4.Understand object behaviour and their relationship from practical perspective
   
 ### Where to use Object Diagram
