@@ -65,8 +65,49 @@ Object Diagrams are used for
 ![example](https://www.tutorialspoint.com/uml/images/uml_object_diagram.jpg)
 
 ## Use Case Diagram
+Use case diagram is the primary form of system/software requirements for a new software program underdeveloped. Use cases specify the expected behaivor , but no the exact method of how it happens. Use cases once specified can be denoted both textual and visual representation. A key concept of use case modeling is that it helps us design a system from the end user's perspective. It is an effective technique for communicating system behavior in the user's terms by specifying all externally visible system behavior.
+
+### Purpose of Use Case Diagram
+Use case diagrams are typically developed in the early stage of development and people often apply use case modeling for the following purposes:
+
+  1.Specify the context of a system
+  2.Capture the requirements of a system
+  3.Validate a systems architecture
+  4.Drive implementation and generate test cases
+  5.Developed by analysts together with domain experts
+  
+Use case diagrams specify the events of a system and their flows. But use case diagram never describes how they are implemented. Use case diagram can be imagined as a black box where only the input, output, and the function of the black box is known.
+  
+### Where it is used
+Use case diagrams can be used for :
+  1. Requirements analysis and high level design.
+  2. Model the context of a system.
+  3. Reverse Engineering
+  4. Forward Engineering.
+  
+### Example
+![example](https://i.ytimg.com/vi/jhHP6AeRFj8/maxresdefault.jpg)
 
 ## Collaboration Diagram
+The collaboration diagram is used to show the relationship between the objects in a system.it depicts the architecture of the object residing in the system as it is based on object-oriented programming. An object consists of several features. Multiple objects present in the system are connected to each other. The collaboration diagram, which is also known as a communication diagram, is used to portray the object's architecture in the system.
+
+### Notations
+  1. Objects 
+  2. Actors
+  3. Links
+  4. Messages
+  
+  
+  ![example](https://static.javatpoint.com/tutorial/uml/images/uml-collaboration-diagram.png)
+  
+### When to use
+  1. To model collaboration among the objects or roles that carry the functionalities of use cases and operations.
+  2. To model the mechanism inside the architectural design of the system.
+  3. To capture the interactions that represent the flow of messages between the objects and the roles inside the collaboration.
+  4. To model different scenarios within the use case or operation , involving a collaboration of several objects and interactions.
+  5. To support the identification of objects participating in the use case.
+  6. In the collaboration diagram, Each message constitutes a sequence number, such that the top level message is marked as one and so on. The messages sent during the same call are denoted with the same decimal prefix, but with different suffixes of 1,2 etc. as per their occurence.
+
 
 ## Activity Diagram
 
