@@ -107,9 +107,27 @@ The collaboration diagram is used to show the relationship between the objects i
   4. To model different scenarios within the use case or operation , involving a collaboration of several objects and interactions.
   5. To support the identification of objects participating in the use case.
   6. In the collaboration diagram, Each message constitutes a sequence number, such that the top level message is marked as one and so on. The messages sent during the same call are denoted with the same decimal prefix, but with different suffixes of 1,2 etc. as per their occurence.
+  
+### Example
+![example](https://i.ytimg.com/vi/5VEcAG22Zzg/maxresdefault.jpg)
 
 
 ## Activity Diagram
+Activity diagram is a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system. The control flow is drawn from one operation to another. This flow can be sequential,branched,or concurrent. Activity diagrams deal with all type of flow control by using different elements such as fork,join etc.
+
+## Purpose
+  1. Draw the activity flow of a system.
+  2. Describe the sequence from one activity to another.
+  3. Describe the parallel, branched and concurremt flow of the system.
+
+## Use Case
+  1. Modeling work flow by using activites.
+  2. Modeling business requirements.
+  3. High level understanding of the system's functionalities.
+  4. Investigating business requirements at a later stage.
+
+### Example
+![example](https://www.guru99.com/images/1/052919_1151_UMLActivity2.png)
 
 ## Statechart Diagram
 
