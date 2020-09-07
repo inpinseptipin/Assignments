@@ -38,7 +38,7 @@ the team releases running, tested software, delivering business value chosen by 
 XP teams release to their end users frequently as well. XP Web projects release as often as daily, in house projects monthly or more frequently. Even shrink-wrapped products are shipped as often as quarterly.
 
 
-**Metaphor**
+## Metaphor
 XP Porgramming teams develop a common vision on how the product will work. This vision is called as a metaphor. In simple terms , the metaphor is a description of how a program will work. XP teams use a common system of names to be sure that everyone understands how the system works and where to look to find the functionality you’re looking for, or to find the right place to put the functionality you’re about to add.
 
 ## Simple Design
