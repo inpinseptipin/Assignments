@@ -31,14 +31,14 @@ It is a practice whereby the team is given direction every couple of weeks. XP t
 ## Small Releases
 XP teams practice small releases in two important ways:
 
-### First
+**First**
 the team releases running, tested software, delivering business value chosen by the Customer, every iteration. The Customer can use this software for any purpose, whether evaluation or even release to end users (highly recommended). The most important aspect is that the software is visible, and given to the customer, at the end of every iteration. This keeps everything open and tangible.
 
-### Second
+**Second**
 XP teams release to their end users frequently as well. XP Web projects release as often as daily, in house projects monthly or more frequently. Even shrink-wrapped products are shipped as often as quarterly.
 
 
-## Metaphor
+**Metaphor**
 XP Porgramming teams develop a common vision on how the product will work. This vision is called as a metaphor. In simple terms , the metaphor is a description of how a program will work. XP teams use a common system of names to be sure that everyone understands how the system works and where to look to find the functionality you’re looking for, or to find the right place to put the functionality you’re about to add.
 
 ## Simple Design
@@ -56,11 +56,11 @@ The refactoring process focuses on removal of duplication (a sure sign of poor d
 
 ## Continious Integration
 Infrequent integration leads to serious problems on a software project. 
-### First
+**First**
 Although integration is critical to shipping good working code, the team is not practiced at it, and often it is delegated to people who are not familiar with the whole system. 
-### Second
+**Second**
 Infrequently integrated code often results in buggy code. Problems creep in at integration time that are not detected by any of the testing that takes place on an unintegrated system. 
-### Third
+**Third**
 Weak integration process leads to long code freezes. Code freezes mean that you have long time periods when the programmers could be working on important shippable features, but that those features must be held back. This weakens your position in the market, or with your end users.
 
 Therefore Continious Integration is required to prevent the problems underlined above.
