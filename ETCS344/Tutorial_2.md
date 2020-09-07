@@ -130,9 +130,74 @@ Activity diagram is a flowchart to represent the flow from one activity to anoth
 ![example](https://www.guru99.com/images/1/052919_1151_UMLActivity2.png)
 
 ## Statechart Diagram
+A Statechart diagram describes a state machine.Statechart diagrams define different states of an object during its lifetime and these states are changed by events. Statechart diagrams are useful to model the reactive systems. Reactive systems can be defined as a system that responds to external or internal events.
+
+### Purpose
+  1.To model the dynamic aspect of a system.
+  2.To model the life time of a reactive system.
+  3.To describe different states of an object during its life time.
+  4.Define a state machine to model the states of an object.
+  
+### Where to Use
+  1.To model the object states of a system.
+  2.To model the reactive system. Reactive system consists of reactive objects.
+  3.To identify the events responsible for state changes.
+  4.Forward and reverse engineering.
+
+### Example
+  ![example](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Finite_state_machine_example_with_comments.svg/1200px-Finite_state_machine_example_with_comments.svg.png)
 
 ## Deployment Diagram
+Deployment diagrams are used to visualize the topology of the physical components of a system, where the software components are deployed.Deployment diagrams are used to describe the static development view of a system. Deployment diagrams consists of nodes and their relationships.
+
+### Purpose
+  1. Visualize the hardware topology of a system.
+  2. Describe the hardware components used to deploy software components.
+  3. Describe the runtime processing nodes.
+
+### Where to Use 
+  1. To model the hardware topology of a system.
+  2. To model the embedded system.
+  3. To model the hardware details for a client server system.
+  4. To model the hardware details of a distributed application.
+  5. For Forward and Reverse Engineering.
+  
+### Example
+![example](https://www.guru99.com/images/1/052919_0743_DeploymentD6.png)
+  
 
 ## Component Diagram
+Component diagrams are different in terms of nature and behavior. Component diagrams are used to model the physical aspects of a system. Component diagrams are used to visualize the organization and relationships among components in a system. These diagrams are also used to make executable systems.
+
+### Purpose
+  1. Visualize the components of a system.
+  2. Construct executables by using forward and reverse engineering.
+  3. Describe the organization and relationships of the components.
+
+### Where to Use
+  1. Model the components of a system.
+  2. Model the database schema.
+  3. Model the executables of an application.
+  4. Model the system's source code.
+
+### Example
+![example](https://d3n817fwly711g.cloudfront.net/uploads/2018/09/New-Component-Diagram-for-Online-Shopping-System.png)
 
 ## Sequence Diagram
+Sequence diagrams are a popular dynamic modeling solution in UML because they specifically focus on lifelines, or the processes and objects that live simultaneously, and the messages exchanged between them to perform a function before the lifeline ends.
+A sequence diagram is a type of interaction diagram because it describes how—and in what order—a group of objects works together.
+
+### Purpose
+  1.Represent the details of a UML use case.
+  2.Model the logic of a sophisticated procedure, function, or operation.
+  3.See how objects and components interact with each other to complete a process.
+  4.Plan and understand the detailed functionality of an existing or future scenario.
+
+### Use Case
+  1.Usage scenario: A usage scenario is a diagram of how your system could potentially be used. It's a great way to make sure that you have worked through the logic of every usage scenario for the system.
+  2.Method logic: Just as you might use a UML sequence diagram to explore the logic of a use case, you can use it to explore the logic of any function, procedure, or complex process.
+  3.Service logic: If you consider a service to be a high-level method used by different clients, a sequence diagram is an ideal way to map that out.
+  4.Sequence diagram Visio - Any sequence diagram that you create with Visio can also be uploaded into Lucidchart. Lucidchart supports .vsd and .vdx file import and is a great Microsoft Visio alternative. Almost all of the images you see in the UML section of this site were generated using Lucidchart.
+
+### Example
+![example](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CheckEmail.svg/340px-CheckEmail.svg.png)
