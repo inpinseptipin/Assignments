@@ -42,6 +42,9 @@ For example : The recommended duration for sprint planning is 4 hours for a two-
 2.  During the second half , the development team identifies the detailed work required to complete those product backlog items, resulting in a confirmed sprint backlog.
 3.  Once the development team has prepared their sprint backlog, they forecast (usually by voting) which tasks will be delivered within the sprint.
 
+
+
+
 ## Q3 : What is a burn down chart? What does a scrum burn down chart comprise?
 The burndown chart is a very fundamental metric in agile scrum. It helps the team to track the progress, since it shows the progress on a daily bases, it helps the scrum master to predict if a team will be able to achieve the target.
 It is a graphical representation of error remaining over a period of time. It helps the team to track the effort which should be reduced on daily basis.
@@ -58,12 +61,17 @@ It is a graphical representation of error remaining over a period of time. It he
 **5.  Real Effort :** Effort remaining line varies from team to team and day to day. It depends on how much effort remaining is added or reduced each day. If more items(user stories and issues) are added after the sprint started, this show as an upward spike.
 
 
+
+
 ## Q4 : Explain what is a product backlog in Scrum?
 1.  The product backlog comprises an ordered list of requirements that a scrum team maintains for a product. It consists of feautures , bug fixes , non-functional requirements or any requirements that must be done to sucessfully deliver a viable product.
 2.  The product owner prioritizes those product backlog items (PBI) is based on considerations such as risk , business value , dependencies, size and date needed.
 3.  Items added to a backlog are commonly written in story format.
 4.  The product backlog is what will be delivered,ordered into the sequence in which it should be delivered.
 5.  It is visible to everyone but may only be changed with the consent of the product owner, who is ultimately responsible for ordering product backlog items for the development team to choose.
+
+
+
 
 
 ## Q5 : What do you mean by FDD? How would agile modeling be applied on an FDD project?
