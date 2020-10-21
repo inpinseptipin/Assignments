@@ -1,6 +1,11 @@
 # Assignment 3
 
 ## Q1 : What role do you see for Project Managers in helping their organizations adopt and get value from Agile practices?
+1.  In an agile environment , the responsibilities of traditional project managers change. Instead of controlling the playing field from a high level position, they practice horizontal management and constantly seek both internal and external feedback. This way , they are able to successfully react to emerging changes or issues in a timely manner.
+
+2.  One aspect where the role of the project manager evolves the most is planning. In Agile , teams plan more on average, However it happens on multiple levels also known as roller wave planning. Instead of creating detailed plans and listing them on Gantt Charts. Agile PMs engage in colllaborative discussions to determine only the high level details based on what is known now. 
+
+3.  Another aspect where the role of the project manager changes in Agile Environment lies within their collaboration with stakeholders. Agile PM's connect the dots between high level requirements and the day-to-day execution of the work on lower levels. They are responsible for setting up the vision of the projects, maintaining transperency and creates a shared understanding of what "Complete" looks like. 
 
 ## Q2 : What are the roles in Scrum? Describe what happens in the Sprint planning meeting.
 ### Roles in Scrum
