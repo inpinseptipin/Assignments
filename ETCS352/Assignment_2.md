@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 
 ## Q1 : What role do you see for Project Managers in helping their organizations adopt and get value from Agile practices?
 1.  In an agile environment , the responsibilities of traditional project managers change. Instead of controlling the playing field from a high level position, they practice horizontal management and constantly seek both internal and external feedback. This way , they are able to successfully react to emerging changes or issues in a timely manner.
